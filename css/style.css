@@ -1,0 +1,23 @@
+#indexBody {
+      text-align: center;
+}
+.topBar {
+      font-size: 20px;
+      text-align: center;
+}
+#portfolioHeader {
+      text-align: center;
+}
+.centerPic {
+      text-align: center;
+}
+.education {
+      text-align: left;
+}
+.img-circle {
+      border-radius: 50%;
+      width: 15%;
+}
+p, h1 {
+      font-family: Arial;
+}
