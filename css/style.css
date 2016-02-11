@@ -1,4 +1,4 @@
-#indexBody {
+#indexBody, body {
       text-align: center;
       padding: 0 100px 0 100px;
 }
@@ -16,6 +16,7 @@
 }
 p, h1, .headerFont {
       font-family: Arial;
+
 }
 
 .border {
@@ -47,4 +48,11 @@ ul {
 }
 .padIt {
     padding: 30px 0 0 0;
+}
+hr {
+    width: 650px;
+}
+#pgfStyle {
+  text-align: center;
+
 }
