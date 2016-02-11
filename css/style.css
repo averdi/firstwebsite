@@ -1,23 +1,50 @@
 #indexBody {
       text-align: center;
+      padding: 0 100px 0 100px;
 }
 .topBar {
       font-size: 20px;
       text-align: center;
 }
-#portfolioHeader {
+#portfolioHeader, .centerPic, #pgfStyle, .center {
       text-align: center;
 }
-.centerPic {
-      text-align: center;
-}
-.education {
-      text-align: left;
-}
+
 .img-circle {
       border-radius: 50%;
       width: 15%;
 }
-p, h1 {
+p, h1, .headerFont {
       font-family: Arial;
+}
+
+.border {
+    border-top: 6px solid black;
+    border-bottom: 6px solid black;
+    padding: 50;
+}
+body {
+    padding: 0 150px 0 150px;
+}
+ul {
+    list-style-type: none;
+}
+.experiment {
+  padding: 0px 300px 0px 300px;
+  font-size: large;
+  text-align: left;
+}
+.fontLarge {
+    font-size: large;
+    font-family: Arial;
+}
+.bigHeader, #portfolioHeader {
+      font-size: 50px;
+}
+.thickLine {
+  height: 5px;
+  background-color: #000;
+}
+.padIt {
+    padding: 30px 0 0 0;
 }
